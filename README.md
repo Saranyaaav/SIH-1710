@@ -22,7 +22,8 @@ Real-Time Navigation: GPS + indoor beacons (Bluetooth/ARKit/ARCore) for AR overl
 
 AI Personalization: Route optimization for accessibility needs, crowd avoidance, emergency routing.
 
-Live Integration: Train schedules, facility status, platform changes via WebSockets.​
+Live Integration: Train schedules, facility status, platform changes via WebSockets.
+​
 ![Uploading ChatGPT Image Dec 16, 2025, 08_22_35 AM.png…]()
 
 ## Use Cases
