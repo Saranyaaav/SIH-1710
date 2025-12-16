@@ -24,7 +24,8 @@ AI Personalization: Route optimization for accessibility needs, crowd avoidance,
 
 Live Integration: Train schedules, facility status, platform changes via WebSockets.
 ​
-![Uploading ChatGPT Image Dec 16, 2025, 08_22_35 AM.png…]()
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c7e1a7c1-c954-456a-9c9b-985890b8d157" />
+
 
 ## Use Cases
 Real-time route guidance to platforms, exits, and amenities.
